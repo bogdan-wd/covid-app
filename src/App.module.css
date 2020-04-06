@@ -5,11 +5,12 @@
 }
 
 body{
-    background-color: #0d0c08;
+    /* background-color: #0d0c08; */
 }
 
 .container{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }

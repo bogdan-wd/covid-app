@@ -3,9 +3,7 @@
 }
 
 .card{
-    margin: 0 2% !important;
-    padding-left: 30px;
-    padding-right: 30px;
+    margin: 1% 2% !important;
     background-color: grey !important;
     color: #b30d07 !important;
     border-radius: 20px !important;
